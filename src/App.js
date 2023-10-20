@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 import WheelComponent from "react-wheel-of-prizes";
+import 'react-wheel-of-prizes/dist/index.css'
 
 export default function App() {
   const segments = [
